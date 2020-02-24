@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saqibameen/GraphQL-CRUD.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saqibameen/GraphQL-CRUD/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/saqibameen/GraphQL-CRUD#readme"
+  "homepage": ""
 }
